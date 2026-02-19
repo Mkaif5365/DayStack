@@ -74,4 +74,4 @@ To generate a release-ready APK:
 
 ---
 
-_Built with ❤️ for a disciplined life._
+_Built for a disciplined life._
